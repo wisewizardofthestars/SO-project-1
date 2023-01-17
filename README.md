@@ -4,3 +4,5 @@
 (SO) project implemented in C.
 
 This project involves the development of a basic file system, called TFS.
+
+Made by @wisewizardofthestars and @mira-eanda.
