@@ -5,4 +5,4 @@
 
 This project involves the development of a basic file system, called TFS.
 
-Made by @wisewizardofthestars and @mira-eanda.
+Made by [@wisewizardofthestars](https://github.com/wisewizardofthestars) and [@mira-eanda](https://github.com/mira-eanda).
